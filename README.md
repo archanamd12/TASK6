@@ -21,8 +21,8 @@ This is a simple contact form built using HTML, CSS, and JavaScript. It includes
 ###  Validation Errors
 ![Validation Errors](SS6.1.png)
 
-## No input
-![No input](ss6.2.png)
+
+
 
 
 
