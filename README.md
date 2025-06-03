@@ -15,12 +15,14 @@ This is a simple contact form built using HTML, CSS, and JavaScript. It includes
 
 ## Screenshots
 
-### 🖼️ Full Form View &Success message
+###  Full Form View &Success message
 ![Form View](ss6.3.png)
 
-### 🖼️ Validation Errors
+###  Validation Errors
 ![Validation Errors](SS6.1.png)
 
+## No input
+![No input](ss6.2.png)
 
 
 
