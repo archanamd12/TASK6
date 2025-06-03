@@ -20,7 +20,7 @@ This is a simple contact form built using HTML, CSS, and JavaScript. It includes
 
 ### 🖼️ Validation Errors
 ![Validation Errors](SS6.1.png)
-![no input](SS6.2.png)
+![validation Error](SS6.2.png)
 
 
 
