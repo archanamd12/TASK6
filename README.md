@@ -21,13 +21,8 @@ This is a simple contact form built using HTML, CSS, and JavaScript. It includes
 ### 🖼️ Validation Errors
 ![Validation Errors](SS6.1.png)
 
-### 🖼️ Success Message
-![Success Message](ss6.png)
 
-> 📂 Place your screenshots in a `screenshots/` folder inside the project directory.
 
-## File
-- `contact-form.html` – All code (HTML, CSS, JavaScript) in one file
 
-## Credits
-Made with 💻 using VS Code and Chrome.
+
+
